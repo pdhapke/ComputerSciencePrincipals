@@ -1,7 +1,7 @@
-import unittest
+
 
 class UnitTests(unittest.TestCase):
-'''
+
  def mean(a, b, c:)
      return "nohting"
  def test_mean1(self):
@@ -59,5 +59,5 @@ class UnitTests(unittest.TestCase):
 
         self.assertEquals(add_tip(percent=0.1, total=100), 110)
         return True
-'''
+
 
