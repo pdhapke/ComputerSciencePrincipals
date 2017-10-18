@@ -1,4 +1,6 @@
-## PLTW CSP section 1.3.2 (#7-18)
+##PLTW_CSP
+
+Section 1.3.2 (#7-18)
 
 You will make several functions through the course of the problems and will turn these in through a repl.it homework submission. The functions can be tested before they are submitted by using the console and they will be automatically checked by the assignment as you submit.
 
