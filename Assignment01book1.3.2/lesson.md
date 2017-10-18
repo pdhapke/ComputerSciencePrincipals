@@ -1,6 +1,6 @@
 ##1.3.2
 
-PLTW Computer science Principals Section 1.3.2 (#7-18)
+PLTW Computer science Principals Section 1.3.2 (7 through 18)
 
 You will make several functions through the course of the problems and will turn these in through a repl.it homework submission. The functions can be tested before they are submitted by using the console and they will be automatically checked by the assignment as you submit.
 
