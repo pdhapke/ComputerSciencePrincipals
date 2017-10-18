@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5949d4d-838b-4be6-afd5-6df8927e9848" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assignment01book1.3.2/lesson_settings.json" afterPath="$PROJECT_DIR$/Assignment01book1.3.2/lesson_settings.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assignment02/lesson_settings.json" afterPath="$PROJECT_DIR$/Assignment02/lesson_settings.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,17 +23,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lesson_settings.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="lesson_settings.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assignment02/lesson_settings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="87">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lesson_settings.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lesson_settings.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assignment01book1.3.2/lesson_settings.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="87">
@@ -113,6 +113,7 @@
         <option value="$PROJECT_DIR$/Assignment02/desktop.ini" />
         <option value="$PROJECT_DIR$/Assignment02/lesson_tests.py" />
         <option value="$PROJECT_DIR$/Assignment01book1.3.2/lesson_settings.json" />
+        <option value="$PROJECT_DIR$/Assignment02/lesson_settings.json" />
       </list>
     </option>
   </component>
@@ -178,6 +179,7 @@
       <recent name="D:\Google Drive\Marshalltown Teaching\Classes\Computer Science Principals\ComputerSciencePrincipals\Templates" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Google Drive\Marshalltown Teaching\Classes\Computer Science Principals\ComputerSciencePrincipals\Assignment02" />
       <recent name="D:\Google Drive\Marshalltown Teaching\Classes\Computer Science Principals\ComputerSciencePrincipals" />
       <recent name="D:\Google Drive\Marshalltown Teaching\Classes\Computer Science Principals\ComputerSciencePrincipals\Templates" />
     </key>
@@ -327,15 +329,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment02/lesson_settings.json">
+    <entry file="file://$PROJECT_DIR$/Assignment01book1.3.2/lesson_settings.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="87">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment01book1.3.2/lesson_settings.json">
+    <entry file="file://$PROJECT_DIR$/Assignment02/lesson_settings.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
