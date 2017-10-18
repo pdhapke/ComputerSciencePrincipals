@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5949d4d-838b-4be6-afd5-6df8927e9848" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assignment02/lesson.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assignment02/lesson_settings.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assignment02/lesson_tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assignment02/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assignment01book1.3.2/lesson_settings.json" afterPath="$PROJECT_DIR$/Assignment01book1.3.2/lesson_settings.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,11 +33,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lesson_tests.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lesson_settings.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assignment01book1.3.2/lesson_settings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson_tests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assignment02/lesson_tests.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="203">
               <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Templates/lesson.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson_settings.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Templates/lesson_settings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson_tests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Templates/lesson_tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,13 +106,13 @@
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/Templates/lesson.md" />
         <option value="$PROJECT_DIR$/Templates/lesson_settings.json" />
-        <option value="$PROJECT_DIR$/Assignment01book1.3.2/lesson_settings.json" />
         <option value="$PROJECT_DIR$/Templates/lesson_tests.py" />
         <option value="$PROJECT_DIR$/Assignment01book1.3.2/lesson_tests.py" />
         <option value="$PROJECT_DIR$/Assignment01book1.3.2/lesson.md" />
         <option value="$PROJECT_DIR$/Assignment02/main.py" />
         <option value="$PROJECT_DIR$/Assignment02/desktop.ini" />
         <option value="$PROJECT_DIR$/Assignment02/lesson_tests.py" />
+        <option value="$PROJECT_DIR$/Assignment01book1.3.2/lesson_settings.json" />
       </list>
     </option>
   </component>
@@ -219,42 +255,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Templates/lesson.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Templates/lesson_settings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Templates/lesson_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assignment01book1.3.2/lesson_tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment01book1.3.2/lesson_settings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="39" lean-forward="true" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -283,6 +287,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment02/lesson_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Templates/lesson.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Templates/lesson_settings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Templates/lesson_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assignment02/lesson.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -299,10 +335,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment02/lesson_tests.py">
+    <entry file="file://$PROJECT_DIR$/Assignment01book1.3.2/lesson_settings.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="87">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
