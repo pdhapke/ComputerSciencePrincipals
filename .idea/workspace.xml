@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5949d4d-838b-4be6-afd5-6df8927e9848" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assignment01book1.3.2/lesson_tests.py" afterPath="$PROJECT_DIR$/Assignment01book1.3.2/lesson_tests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lesson_tests.py" afterPath="$PROJECT_DIR$/Assignment02/lesson_tests.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment01book1.3.2/lesson.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment01book1.3.2/lesson_settings.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment01book1.3.2/lesson_tests.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,38 +18,8 @@
       <file leaf-file-name="lesson_tests.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assignment02/lesson_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1392">
-              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="desktop.ini" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assignment01book1.3.2/desktop.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lesson.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assignment01book1.3.2/lesson.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lesson_tests.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assignment01book1.3.2/lesson_tests.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" column="43" lean-forward="false" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+            <state relative-caret-position="1450">
+              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -149,11 +119,6 @@
             <path>
               <item name="ComputerSciencePrincipals" type="b2602c69:ProjectViewProjectNode" />
               <item name="ComputerSciencePrincipals" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment01book1.3.2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ComputerSciencePrincipals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ComputerSciencePrincipals" type="462c0819:PsiDirectoryNode" />
               <item name="Assignment02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -221,9 +186,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="71" y="64" width="2533" height="1972" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20326823" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20326823" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -382,14 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment01book1.3.2/lesson_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="43" lean-forward="false" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assignment01book1.3.2/desktop.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -416,8 +372,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignment02/lesson_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1392">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state relative-caret-position="1450">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment01book1.3.2/lesson_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="3" selection-end-column="43" />
           <folding />
         </state>
       </provider>
