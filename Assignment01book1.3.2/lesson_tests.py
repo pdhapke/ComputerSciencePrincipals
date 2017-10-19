@@ -1,10 +1,8 @@
 class UnitTests(unittest.TestCase):
-
- @property
  def test_mean1(self):
      msg = "your mean(a, b, c) failed because there was a problem with the syntax or there was a problem with your math"
 
-    # self.assertEquals(mean(6, 6, 6), 6)
+     #self.assertEquals(mean(6, 6, 6), 6)
      self.assertEquals(mean(9, 10, 11), 10)
      return True
 
@@ -48,7 +46,7 @@ class UnitTests(unittest.TestCase):
      msg = "Your add_tip(total, percent) failed to run correctly. either there is a problem with your code or a problem with your math."
 
      self.assertEquals(add_tip(100, 0.10), 110)
-      return True
+     return True
 
 
  def test_add_tip2(self):
