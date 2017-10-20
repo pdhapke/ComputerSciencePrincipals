@@ -1,20 +1,24 @@
+import unittest
+
+
 def mean(a, b, c):
-    return 5
+    return a+b+c
 
 
-
-class unittests132(unittest.TestCase):
-
+class UnitTest(unittest.TestCase):
     def test_mean1(self):
-        msg = "your mean(a, b, c) failed because there was a problem with the syntax or there was a problem with your math"
+        msg = '''your mean(a, b, c) failed because there was a problem with the syntax or 
+        there was a problem with your math'''
 
         self.assertEquals(mean(6, 6, 6), 6)
         self.assertEquals(mean(9, 10, 11), 10)
+        return msg
 
     def test_mean2(self):
         msg = "your mean(a, b, c) failed because you named your variables incorrectly"
         self.assertEquals(mean(b=6, c=6, a=6), 6)
         self.assertEquals(mean(c=9, a=10, b=11), 10)
+        return msg
     '''
     def test_perimeter1(self):
         msg = "Your perimeter(base, height) failed because your syntax is wrong or your math is wrong"
@@ -40,16 +44,13 @@ class unittests132(unittest.TestCase):
         self.assertEquals(hyp(leg1=5, leg2=12), 13)
 
 
-
     def test_add_tip1(self):
-        msg = "Your add_tip(total, percent) failed to run correctly. either there is a problem with your code or a problem with your math."
+        msg = Your add_tip(total, percent) failed to run correctly. 
+        either there is a problem with your code or a problem with your math.
         self.assertEquals(add_tip(100, 0.10), 110)
-
 
 
     def test_add_tip2(self):
         msg = "The test failed, it looks like your variables are named incorrectly"
         self.assertEquals(add_tip(percent=0.1, total=100), 110)
     '''
-
-
